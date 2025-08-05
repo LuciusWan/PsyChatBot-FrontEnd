@@ -1,0 +1,51 @@
+// 心理医生项目的配色变量
+:root {
+  // 主色调 - 柔和的蓝色系
+  --primary-color: #7fb3d3;
+  --primary-light: #a8c8e1;
+  --primary-dark: #5a9bd4;
+  
+  // 辅助色 - 淡绿色
+  --secondary-color: #9fd3c7;
+  --secondary-light: #b8e0d5;
+  --secondary-dark: #85c4b8;
+  
+  // 强调色 - 低饱和暖色
+  --accent-color: #d4a574;
+  --accent-light: #e1b88a;
+  --accent-dark: #c7955e;
+  
+  // 中性色
+  --background-color: #fafbfc;
+  --surface-color: #ffffff;
+  --text-primary: #2c3e50;
+  --text-secondary: #5a6c7d;
+  --text-muted: #8492a6;
+  
+  // 状态色 - 柔和版本
+  --success-color: #85c1a9;
+  --warning-color: #f0c674;
+  --error-color: #e07a7a;
+  --info-color: #7fb3d3;
+  
+  // 边框和分割线
+  --border-color: #e4e7ed;
+  --border-light: #f0f2f5;
+  
+  // 阴影
+  --shadow-light: 0 2px 8px rgba(0, 0, 0, 0.06);
+  --shadow-medium: 0 4px 16px rgba(0, 0, 0, 0.08);
+  --shadow-heavy: 0 8px 32px rgba(0, 0, 0, 0.12);
+  
+  // 圆角
+  --border-radius-small: 4px;
+  --border-radius-medium: 8px;
+  --border-radius-large: 12px;
+  
+  // 间距
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 32px;
+}
